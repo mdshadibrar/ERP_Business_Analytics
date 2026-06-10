@@ -1,0 +1,7 @@
+
+DELIMITER //
+CREATE PROCEDURE GetMonthlyPayrollReport()
+BEGIN
+SELECT * FROM payroll;
+END //
+DELIMITER ;

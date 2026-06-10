@@ -1,0 +1,1 @@
+package com.erp.repository; public interface TicketRepository {}
